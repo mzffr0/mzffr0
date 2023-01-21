@@ -1,7 +1,7 @@
 <h3>Selam!   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"></h2>Ben Muzaffer!</h3> 
 <div><label>16 Yaşındayım ve kısa süredir Web Geliştiriciliği ile ilgileniyorum</label></div><br><br>
 
-![Apaxcy](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Apaxcy;Follow+Me;Me+Apaxcy;)
+![Apaxcy](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Follow+Me;Me+Apaxcy;Web+Developer;)
  
  ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mzaffr)
