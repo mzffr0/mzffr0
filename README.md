@@ -43,7 +43,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
-<br><br>
+
   <kbd>
     <kbd>FrameWorks</kbd>
     <br>
@@ -72,6 +72,7 @@
 <p align="center">
 <a href="https://github.com/mzffr0">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mzffr0&layout=compact&langs_count=8&theme=react"/>
+ <br><br>
   <img src="https://streak-stats.demolab.com?user=mzffr0&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" />
  </a>
 </p>
