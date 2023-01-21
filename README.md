@@ -48,7 +48,6 @@
     <br>
     <img width="30px" src="./images/steam2.png" />
     <img width="30px" src="./images/epic-games.png" />
-    <img width="30px" src="" />
   </kbd>
 <h3><img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats<br></h3>
 <div align="center">
