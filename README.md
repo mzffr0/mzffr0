@@ -46,7 +46,7 @@
    <kbd>
     <kbd>Games</kbd>
     <br>
-    <img width="30px" src="./images/steam.png" />
+    <img width="30px" src="./images/steam2.png" />
     <img width="30px" src="" />
     <img width="30px" src="" />
   </kbd>
