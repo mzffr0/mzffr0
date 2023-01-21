@@ -1,16 +1,74 @@
 <h3>Merhabalar, Ben Muzaffer!</h3>
-<label>16 Yaşındayım ve kısa süredir Web geliştiriciliği ile ilgileniyorum</label>
-<h3>Kullandığım teknolojiler</h3>
-<code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/html.svg"></code>
-<code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/css.svg"></code>
-<code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/boostrap.svg"></code> 
-<code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg"></code>
-<code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/github.svg"></code>
-<details>
-  <summary>İstatistiklerim</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=mzffr0&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1117&border_color=0d1117" style="float:left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzffr0&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97&langs_count=12"><br><br>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzffr0&theme=github-dark&show_icons=true"/><br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=mzffr0&theme=onedark" />
+<div><label>16 Yaşındayım ve kısa süredir Web geliştiriciliği ile ilgileniyorum</label></div><br><br>
+<kbd>
+   <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
+  </kbd>
+  <kbd>
+    <kbd>OS</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  </kbd>
+<br><br>
+  <kbd>
+    <kbd>FrameWorks</kbd>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Adobe Tools</kbd>
+    <br>
+    <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-photoshop.png" />
+    <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-illustrator.png" />
+    <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-premiere-pro--v1.png" />
+  </kbd><br><br>
+  <br/>
+<h3><img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats<br></h3>
+<div align="center">
+<p align="center">
+<a href="https://github.com/mzffr0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mzffr0&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mzffr0&layout=compact&langs_count=8&theme=react"/>
+  <img src="https://streak-stats.demolab.com?user=mzffr0&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" />
+ </a>
+</p>
+</div>
 
- </details>
+<h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mzffr0&theme=react-dark&hide_border=true" />
+
+  </a>
+
+## Github Metrics
+<p align="center">
+  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mzffr0&theme=github_dark" />
+</p>
+<p align="center">
+  <img width="625em" src="https://metrics.lecoq.io/mzffr0" />
+</p>
+<br><br>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mzffr0}/count.svg" /></p> 
+</div>
