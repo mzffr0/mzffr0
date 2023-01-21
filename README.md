@@ -42,8 +42,14 @@
     <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-photoshop.png" />
     <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-illustrator.png" />
     <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-premiere-pro--v1.png" />
-  </kbd><br><br>
-  <br/>
+  </kbd>
+   <kbd>
+    <kbd>Games</kbd>
+    <br>
+    <img width="30px" src="./images/steam.png" />
+    <img width="30px" src="" />
+    <img width="30px" src="" />
+  </kbd>
 <h3><img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats<br></h3>
 <div align="center">
 <p align="center">
