@@ -1,5 +1,17 @@
-<h3>Merhabalar, Ben Muzaffer!</h3>
-<div><label>16 Yaşındayım ve kısa süredir Web geliştiriciliği ile ilgileniyorum</label></div><br><br>
+<h3>Selam!   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"></h2>Ben Muzaffer!</h3> 
+<div><label>16 Yaşındayım ve kısa süredir Web Geliştiriciliği ile ilgileniyorum</label></div><br><br>
+
+![Apaxcy](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Apaxcy;Apaxcy)
+ 
+ ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mzaffr)
+ [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mzffr.company@gmail.com)
+ 
+ ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzffr0&label=Profile%20views&color=ff8800&style=flat-square" alt="Apaxcy" /> </p>
+
+ 
 <kbd>
    <kbd>Front-end</kbd>
     <br>
@@ -22,6 +34,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
   </kbd>
   <kbd>
     <kbd>OS</kbd>
@@ -34,10 +47,12 @@
   <kbd>
     <kbd>FrameWorks</kbd>
     <br>
+    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   </kbd>
   <kbd>
     <kbd>Adobe Tools</kbd>
+    <br>
     <br>
     <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-photoshop.png" />
     <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-illustrator.png" />
@@ -46,9 +61,12 @@
    <kbd>
     <kbd>Games</kbd>
     <br>
+    <br>
     <img width="30px" src="./images/steam2.png" />
     <img width="30px" src="./images/epic-games.png" />
   </kbd>
+  <br>
+  
 <h3><img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats<br></h3>
 <div align="center">
 <p align="center">
