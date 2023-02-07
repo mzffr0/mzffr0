@@ -1,16 +1,8 @@
-<h3>Selam!   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"></h2>Ben Muzaffer!</h3> 
 <div><label>16 Yaşındayım ve kısa süredir Web Geliştiriciliği ile ilgileniyorum</label></div><br><br>
-
-![Apaxcy](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Follow+Me;Web+Design+and+Developer;Me+Apaxcy;)
  
  ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mzaffr)
  [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mzffr.company@gmail.com)
- 
- ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
- 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzffr0&label=Profile%20views&color=ff8800&style=flat-square" alt="Apaxcy" /> </p>
-
  
 <kbd>
    <kbd>Front-end</kbd>
@@ -72,16 +64,10 @@
 <p align="center">
 <a href="https://github.com/mzffr0">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mzffr0&layout=compact&langs_count=8&theme=react"/>
- <br><br>
-  <img src="https://streak-stats.demolab.com?user=mzffr0&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" />
  </a>
 </p>
 </div>
 
-<h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mzffr0&theme=react-dark&hide_border=true" />
-
-  </a>
 
 ## Github Metrics
 <p align="center">
