@@ -1,4 +1,4 @@
-<div><label>16 Yaşındayım ve kısa süredir Web Geliştiriciliği ile ilgileniyorum</label></div><br><br>
+<div><label>Merhaba, ben Muzaffer 16 yaşındayım ve kısa süredir Web Geliştiriciliği ile ilgileniyorum</label></div><br><br>
  
  ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect With Me
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mzaffrr/)
