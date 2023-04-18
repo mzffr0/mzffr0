@@ -1,6 +1,6 @@
 <div><label>16 Yaşındayım ve kısa süredir Web Geliştiriciliği ile ilgileniyorum</label></div><br><br>
  
- ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
+ ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect With Me
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mzaffr)
  [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mzffr.company@gmail.com)
  
